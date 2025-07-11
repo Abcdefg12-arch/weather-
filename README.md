@@ -7,7 +7,6 @@ A simple and responsive weather web application built using JavaScript, CSS, and
 - 🌤️ Real-time weather updates for any city
 - 🌎 Search by city name
 - 📈 Display of temperature, weather condition, humidity, and wind speed
-- 🌙 Day and night themes (if implemented)
 - 📱 Responsive design for mobile and desktop
 
 ## Getting Started
